@@ -1,4 +1,3 @@
-# Adijat Sulaimon
 Hi, I’m Adijat Sulaimon, an Embedded Systems Engineer specializing in IoT, RTOS, and hardware-software integration. 
 I’m passionate about creating efficient, scalable systems that blend technology with real-world applications.
 
