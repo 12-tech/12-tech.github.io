@@ -6,11 +6,6 @@ I’m passionate about creating efficient, scalable systems that blend technolog
 - Master’s degree in Embedded Systems Engineering from Fachhochschule Dortmund.
 - Expertise in C/C++, Python, FreeRTOS, microcontrollers, and IoT platforms.
 
-## Professional Background
-- **Embedded Systems Engineer** at Hamm-Lippstadt University of Applied Sciences.
-- Master’s degree in Embedded Systems Engineering from Fachhochschule Dortmund.
-- Expertise in C/C++, Python, FreeRTOS, microcontrollers, and IoT platforms.
-
 ## Experience
 - **Research Assistant** at Hamm-Lippstadt University
   - Developed an autonomous traffic management system using SUMO, OMNeT++, and FreeRTOS.
