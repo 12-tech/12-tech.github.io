@@ -13,6 +13,5 @@ Currently working as a Research Assistant and expertise in C/C++, Python, FreeRT
 🔗 **LinkedIn**: [linkedin.com/in/adijat01/](https://www.linkedin.com/in/adijat01/)  
 💻 **GitHub**: [github.com/12-tech](https://github.com/12-tech)  
 
----
 
 Thank you for visiting! I’m always open to discussing exciting new projects, collaborations, or just connecting to share knowledge. Feel free to reach out!
