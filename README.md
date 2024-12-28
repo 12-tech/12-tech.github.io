@@ -1,5 +1,4 @@
-![Your Name](https://github.com/your-username/your-repo-name/blob/main/IMG_3459.jpg?raw=true)
-
+![Your Name](https://github.com/12-tech/12-tech.github.io/blob/main/IMG_3459.jpg?raw=true)
 
 I am an **Electronics Engineer** with hands-on experience in embedded systems, machine Learning, and data analysis. 
 Currently working as a Research Assistant and expertise in C/C++, Python, FreeRTOS, and microcontrollers.  
