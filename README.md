@@ -1,4 +1,4 @@
-<img src="https://github.com/12-tech/12-tech.github.io/blob/main/IMG_3459.jpg?raw=true" alt="Your Name" width="500";">
+<img src="https://github.com/12-tech/12-tech.github.io/blob/main/IMG_3459.jpg?raw=true" alt="Your Name" width="500">
 
 I am an **Electronics Engineer** with hands-on experience in embedded systems, machine Learning, and data analysis. 
 Currently working as a Research Assistant and expertise in C/C++, Python, FreeRTOS, and microcontrollers.  
