@@ -1,4 +1,4 @@
-![Your Name](https://www.dropbox.com/scl/fi/6eo9fqfq213ej6oot0wtg/IMG_3459.HEIC?raw=1)
+![Your Name](https://www.dropbox.com/scl/fi/iovqwf22dz2z0sqyrlwfg/IMG_3459.jpg?raw=1)
 
 
 I am an **Electronics Engineer** with hands-on experience in embedded systems, machine Learning, and data analysis. 
