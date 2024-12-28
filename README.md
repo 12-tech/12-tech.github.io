@@ -1,5 +1,5 @@
-![Your Name]([https://example.com/your-image.jpg](https://www.dropbox.com/scl/fi/6eo9fqfq213ej6oot0wtg/IMG_3459.HEIC?rlkey=4coxt3a7gtupqye6iwd80effc&st=b7nwbl0l&dl=0
-)
+![Your Name](https://www.dropbox.com/scl/fi/6eo9fqfq213ej6oot0wtg/IMG_3459.HEIC?rlkey=4coxt3a7gtupqye6iwd80effc&st=v8lpdr2m&dl=0)
+
 
 I am an **Electronics Engineer** with hands-on experience in embedded systems, machine Learning, and data analysis. 
 Currently working as a Research Assistant and expertise in C/C++, Python, FreeRTOS, and microcontrollers.  
