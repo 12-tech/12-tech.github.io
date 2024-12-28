@@ -14,8 +14,8 @@ Currently working as a Research Assistant and expertise in C/C++, Python, FreeRT
 ### [Project 1: Smart House: Simulation of Energy Supply and Consumption](https://github.com/Group-B-Java/Java_project.git)  
 A Smart House system that manages energy supply and consumption using Java for automation.
 
-### [Project 2: Machine Learning Model for Predictive Analytics](https://github.com/12-tech/project2)  
-A machine learning model to predict trends based on historical data using Python and scikit-learn.
+### [Project 2: Cross-Traffic Management for Autonomous Vehicles](https://github.com/12-tech/Cross-Traffic-management-for-autonomous-vehicles.git)  
+An autonomous vehicle traffic management system for intersection safety and efficiency, built with C++, VHDL, and FreeRTOS, utilizing object detection and tracking algorithms.
 
 ### [Project 3: IoT-based Temperature Monitoring](https://github.com/12-tech/project3)  
 An IoT-based temperature monitoring system using ESP8266 and Blynk app for real-time monitoring.
