@@ -1,18 +1,9 @@
-Hi, I’m Adijat Sulaimon, an Embedded Systems Engineer specializing in IoT, RTOS, and hardware-software integration. 
-I’m passionate about creating efficient, scalable systems that blend technology with real-world applications.
+I am an **Electronics Engineer** with hands-on experience in embedded systems, machine Learning, and data analysis. 
+Currently working as a Research Assistant and expertise in C/C++, Python, FreeRTOS, and microcontrollers.  
 
-## Professional Background
-- **Embedded Systems Engineer** at Hamm-Lippstadt University of Applied Sciences.
-- Master’s degree in Embedded Systems Engineering from Fachhochschule Dortmund.
-- Expertise in C/C++, Python, FreeRTOS, microcontrollers, and IoT platforms.
-
-## Experience
-- **Research Assistant** at Hamm-Lippstadt University
-  - Developed an autonomous traffic management system using SUMO, OMNeT++, and FreeRTOS.
-  - Authored technical documentation standardizing development processes.
-- **Data Integration Engineer** at Perfect-iD GmbH
-  - Optimized IoT data integration, resulting in a 30% improvement in data flow consistency.
-  - Collaborated with development teams to streamline IoT dashboards and control panels.
+- 🌟 Passionate about innovation and problem-solving.  
+- 📚 Currently improving my **German** to B2 level.  
+- 🚀 Open to opportunities in embedded systems, automation, and software development.  
 
 ## Contact
 - **Email**: adijatsulaimon01@gmail.com
