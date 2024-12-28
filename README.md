@@ -6,7 +6,20 @@ Currently working as a Research Assistant and expertise in C/C++, Python, FreeRT
 
 - 🌟 Passionate about innovation and problem-solving.  
 - 📚 Currently improving my **German** to B2 level.  
-- 🚀 Open to opportunities in embedded systems, automation, and software development.  
+- 🚀 Open to opportunities in embedded systems, automation, and software development.
+
+
+## Projects
+
+### [Project 1: Embedded System for Smart Home](https://github.com/12-tech/project1)  
+A smart home system built using Arduino and Python for automation.
+
+### [Project 2: Machine Learning Model for Predictive Analytics](https://github.com/12-tech/project2)  
+A machine learning model to predict trends based on historical data using Python and scikit-learn.
+
+### [Project 3: IoT-based Temperature Monitoring](https://github.com/12-tech/project3)  
+An IoT-based temperature monitoring system using ESP8266 and Blynk app for real-time monitoring.
+
 
 ## Contact
 
