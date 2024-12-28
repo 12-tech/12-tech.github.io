@@ -11,8 +11,8 @@ Currently working as a Research Assistant and expertise in C/C++, Python, FreeRT
 
 ## Projects
 
-### [Project 1: Embedded System for Smart Home](https://github.com/12-tech/project1)  
-A smart home system built using Arduino and Python for automation.
+### [Project 1: Smart House: Simulation of Energy Supply and Consumption]([https://github.com/12-tech/project1](https://github.com/Group-B-Java/Java_project.git))  
+A Smart House system that manages energy supply and consumption using Java for automation.
 
 ### [Project 2: Machine Learning Model for Predictive Analytics](https://github.com/12-tech/project2)  
 A machine learning model to predict trends based on historical data using Python and scikit-learn.
