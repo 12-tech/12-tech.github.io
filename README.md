@@ -1,5 +1,4 @@
-![Your Name](https://www.dropbox.com/scl/fi/iovqwf22dz2z0sqyrlwfg/IMG_3459.jpg?raw=1)
-
+![Your Name](https://github.com/your-username/your-repo-name/blob/main/IMG_3459.jpg)
 
 I am an **Electronics Engineer** with hands-on experience in embedded systems, machine Learning, and data analysis. 
 Currently working as a Research Assistant and expertise in C/C++, Python, FreeRTOS, and microcontrollers.  
