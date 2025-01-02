@@ -1,12 +1,12 @@
 <img src="https://github.com/12-tech/12-tech.github.io/blob/main/IMG_3459.jpg?raw=true" alt="Your Name" width="500">
 
 
-I am an **Embedded Systems Engineer** with hands-on experience in embedded systems, software development, and data analysis. 
-Currently working as a Research Assistant and expertise in C/C++, Python, FreeRTOS, and microcontrollers.  
+Hi, I’m Adijat, and engineering runs in my blood.
+My father was an engineer who dedicated his career to building and innovating at companies like NITEL, Mobil, and MRS Oil and Gas. Growing up, I saw firsthand how his work made an impact—bringing connectivity, energy, and progress to communities. Watching him solve complex challenges with precision and passion inspired me to follow in his footsteps and pursue a career in engineering.
 
-- 🌟 Passionate about innovation and problem-solving.  
-- 📚 Currently improving my **German** to B2 level.  
-- 🚀 Open to opportunities in embedded systems, automation, and software development.
+Today, I’m an Electronics Engineer exploring the exciting intersections of embedded systems, automation, and machine learning. I love diving into problems that others shy away from, building systems that are not only functional but impactful. Whether it’s designing smarter machines, improving energy efficiency, or creating innovative solutions for the future, I strive to carry on the legacy of purpose-driven engineering I learned from my father.
+
+This GitHub page is a collection of projects and ideas that reflect my journey and vision. I’m always open to collaborating with others who share a passion for solving meaningful problems—so feel free to connect!
 
 
 ## Projects
