@@ -17,8 +17,9 @@ A Smart House system that manages energy supply and consumption using Java for a
 ### [Project 2: Cross-Traffic Management for Autonomous Vehicles](https://github.com/12-tech/Cross-Traffic-management-for-autonomous-vehicles.git)  
 An autonomous vehicle traffic management system for intersection safety and efficiency, built with C++, VHDL, and FreeRTOS, utilizing object detection and tracking algorithms.
 
-### [Project 3: Labeling of Sugarbeet Plants Using Active Learning]([https://github.com/12-tech/project3](https://github.com/12-tech/Labeling-using-Active-Learning.git))  
+### [Project 3: Labeling of Sugarbeet Plants Using Active Learning](https://github.com/12-tech/Labeling-using-Active-Learning.git)  
 A machine learning algorithm that employs active learning and deep learning techniques to efficiently annotate sugarbeet plants, reducing manual labeling efforts and improving model performance using python.
+
 
 
 ## Contact
