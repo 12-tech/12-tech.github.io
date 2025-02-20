@@ -1,9 +1,9 @@
 <img src="https://github.com/12-tech/12-tech.github.io/blob/main/IMG_3459.jpg?raw=true" alt="Your Name" width="500">
 
 
-Solving complex problems with technology is my superpower. I thrive on dissecting challenges, diving deep into their intricacies, and crafting innovative solutions. As a hands-on Embedded Systems Engineer, I blend technical expertise with a relentless curiosity for learning—whether it’s mastering new tools or exploring cutting-edge methodologies. Don’t just take my word for it; explore my featured projects below to see how I turn ideas into impact.
+Solving complex problems with technology is my superpower. I thrive on dissecting challenges, diving deep into their intricacies, and crafting innovative solutions. As a hands-on Embedded Systems Engineer, I blend technical expertise with a relentless curiosity for learning, whether it’s mastering new tools or exploring cutting edge methodologies. Don’t just take my word for it; explore my featured projects below to see how I turn ideas into impact.
 
-This portfolio reflects my journey in embedded systems, machine learning, and collaborative problem-solving. I’m always eager to connect with like-minded innovators—let’s build something meaningful together! [Feel free to contact me via email at adijatsulaimon01@gmail.com]
+This portfolio reflects my journey in embedded systems, machine learning, and collaborative problem-solving. I’m always eager to connect with like minded innovators. let’s build something meaningful together! [Feel free to contact me via email at adijatsulaimon01@gmail.com]
 
 ## Projects
 
