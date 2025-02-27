@@ -18,15 +18,6 @@ This portfolio reflects my journey in **embedded systems, machine learning, and 
 
 ---
 
-## **🌍 Language Toggle**  
-
-You can view this portfolio in **English** or **German**.  
-Click the button below to switch languages!  
-
-<button id="toggle-lang">Switch to German</button>  
-
----
-
 ## **🚀 Featured Projects**  
 
 ### **[Smart House: Simulation of Energy Supply and Consumption](https://github.com/Group-B-Java/Java_project.git)**  
