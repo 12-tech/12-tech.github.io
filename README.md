@@ -9,9 +9,10 @@
       font-family: 'Arial', sans-serif;
       background-color: #f9f9f9;
       color: #333;
-      text-align: center;
       margin: 0;
       padding: 20px;
+      max-width: 800px;
+      margin: auto;
     }
     h1, h2, h3 {
       color: #2c3e50;
@@ -28,19 +29,17 @@
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
       max-width: 100%;
       height: auto;
-    }
-    .project-table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 20px;
-    }
-    .project-table th, .project-table td {
-      border: 1px solid #ddd;
-      padding: 10px;
-      text-align: left;
+      display: block;
+      margin: auto;
     }
     .badges {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
       margin: 10px 0;
+    }
+    .project {
+      margin-bottom: 40px;
     }
   </style>
 </head>
@@ -69,41 +68,22 @@
   <!-- Featured Projects -->
   <section>
     <h2>🚀 Featured Projects</h2>
-    <table class="project-table">
-      <tr>
-        <th>Project</th>
-        <th>Description</th>
-        <th>Technologies</th>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/12-tech/Truck-Platoon.git">Truck Platoon</a></td>
-        <td>Autonomous truck convoy coordination using RTOS & TCP/IP.</td>
-        <td>C++, RTOS, Client-Server, TCP/IP</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/Group-B-Java/Java_project.git">Smart House</a></td>
-        <td>Energy supply & consumption simulation using Java.</td>
-        <td>Java</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/12-tech/Cross-Traffic-management-for-autonomous-vehicles.git">Cross-Traffic Management</a></td>
-        <td>Traffic management system for autonomous vehicles.</td>
-        <td>C++, VHDL, FreeRTOS</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/12-tech/Labeling-using-Active-Learning.git">Labeling Sugarbeet Plants</a></td>
-        <td>Machine learning for plant annotation with active learning.</td>
-        <td>Python</td>
-      </tr>
-    </table>
-  </section>
-
-  <!-- Pinned Repositories -->
-  <section>
-    <h2>📌 Pinned Repositories</h2>
-    <p>Check out some of my top repositories on GitHub!</p>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=12-tech&repo=Truck-Platoon&theme=tokyonight" width="400">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=12-tech&repo=Cross-Traffic-management-for-autonomous-vehicles&theme=tokyonight" width="400">
+    <div class="project">
+      <h3><a href="https://github.com/12-tech/Truck-Platoon.git">Truck Platoon</a></h3>
+      <p>Autonomous truck convoy coordination using RTOS & TCP/IP.</p>
+    </div>
+    <div class="project">
+      <h3><a href="https://github.com/Group-B-Java/Java_project.git">Smart House</a></h3>
+      <p>Energy supply & consumption simulation using Java.</p>
+    </div>
+    <div class="project">
+      <h3><a href="https://github.com/12-tech/Cross-Traffic-management-for-autonomous-vehicles.git">Cross-Traffic Management</a></h3>
+      <p>Traffic management system for autonomous vehicles.</p>
+    </div>
+    <div class="project">
+      <h3><a href="https://github.com/12-tech/Labeling-using-Active-Learning.git">Labeling Sugarbeet Plants</a></h3>
+      <p>Machine learning for plant annotation with active learning.</p>
+    </div>
   </section>
 
   <!-- Contact Section -->
