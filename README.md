@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -9,7 +9,7 @@
       font-family: 'Arial', sans-serif;
       background-color: #f9f9f9;
       color: #333;
-      line-height: 1.6;
+      text-align: center;
       margin: 0;
       padding: 20px;
     }
@@ -29,53 +29,81 @@
       max-width: 100%;
       height: auto;
     }
-    .project {
-      margin-bottom: 40px;
+    .project-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
     }
-    .project img {
-      margin-top: 10px;
+    .project-table th, .project-table td {
+      border: 1px solid #ddd;
+      padding: 10px;
+      text-align: left;
     }
-    .contact-info {
-      margin-top: 30px;
+    .badges {
+      margin: 10px 0;
     }
   </style>
 </head>
 <body>
-  <!-- Welcome Section -->
+  <!-- Header Section -->
   <header>
     <h1>Welcome to My Portfolio</h1>
     <img src="https://github.com/12-tech/12-tech.github.io/blob/main/IMG_3459.jpg?raw=true" 
          alt="Adijat Sulaimon" 
-         width="500" 
+         width="300" 
          loading="lazy">
-    <p>Solving complex problems with technology is my superpower. I thrive on dissecting challenges, diving deep into their intricacies, and crafting innovative solutions.</p>
-    <p>As a hands-on <strong>Embedded Systems Engineer</strong>, I blend technical expertise with a relentless curiosity for learning, whether it’s mastering new tools or exploring cutting-edge methodologies.</p>
-    <p>Don’t just take my word for it; explore my featured projects below to see how I turn ideas into impact.</p>
-    <p>This portfolio reflects my journey in <strong>embedded systems, machine learning, and collaborative problem-solving</strong>. I’m always eager to connect with like-minded innovators. <strong>Let’s build something meaningful together!</strong></p>
-    <p>📩 <strong>Contact me:</strong> <a href="mailto:adijatsulaimon01@gmail.com">adijatsulaimon01@gmail.com</a></p>
+    
+    <p><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hi, I'm <strong>Adijat Sulaimon</strong>, an Embedded Systems Engineer!</p>
+    
+    <!-- Badges -->
+    <div class="badges">
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+      <img src="https://img.shields.io/badge/Embedded%20Systems-FF5722?style=for-the-badge&logo=raspberrypi&logoColor=white">
+      <img src="https://img.shields.io/badge/RTOS-008080?style=for-the-badge&logo=freebsd&logoColor=white">
+      <img src="https://img.shields.io/badge/TCP%2FIP-007ACC?style=for-the-badge&logo=internetexplorer&logoColor=white">
+    </div>
+    
+    <p>Passionate about solving complex problems using technology. I thrive on building **real-time systems, automation, and AI-driven embedded applications**.</p>
   </header>
 
   <!-- Featured Projects -->
   <section>
     <h2>🚀 Featured Projects</h2>
+    <table class="project-table">
+      <tr>
+        <th>Project</th>
+        <th>Description</th>
+        <th>Technologies</th>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/12-tech/Truck-Platoon.git">Truck Platoon</a></td>
+        <td>Autonomous truck convoy coordination using RTOS & TCP/IP.</td>
+        <td>C++, RTOS, Client-Server, TCP/IP</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Group-B-Java/Java_project.git">Smart House</a></td>
+        <td>Energy supply & consumption simulation using Java.</td>
+        <td>Java</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/12-tech/Cross-Traffic-management-for-autonomous-vehicles.git">Cross-Traffic Management</a></td>
+        <td>Traffic management system for autonomous vehicles.</td>
+        <td>C++, VHDL, FreeRTOS</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/12-tech/Labeling-using-Active-Learning.git">Labeling Sugarbeet Plants</a></td>
+        <td>Machine learning for plant annotation with active learning.</td>
+        <td>Python</td>
+      </tr>
+    </table>
+  </section>
 
-    <div class="project">
-      <h3><a href="https://github.com/Group-B-Java/Java_project.git">Smart House: Simulation of Energy Supply and Consumption</a></h3>
-      <img src="https://yourcdn.com/smart-house.jpg" alt="Smart House Project" width="500" loading="lazy">
-      <p>A Smart House system that <strong>manages energy supply and consumption</strong> using Java for automation.</p>
-    </div>
-
-    <div class="project">
-      <h3><a href="https://github.com/12-tech/Cross-Traffic-management-for-autonomous-vehicles.git">Cross-Traffic Management for Autonomous Vehicles</a></h3>
-      <img src="https://yourcdn.com/traffic-management.jpg" alt="Traffic Management" width="500" loading="lazy">
-      <p>An autonomous vehicle traffic management system for <strong>intersection safety and efficiency</strong>, built with <strong>C++, VHDL, and FreeRTOS</strong>, utilizing object detection and tracking algorithms.</p>
-    </div>
-
-    <div class="project">
-      <h3><a href="https://github.com/12-tech/Labeling-using-Active-Learning.git">Labeling of Sugarbeet Plants Using Active Learning (Bachelor Thesis)</a></h3>
-      <img src="https://yourcdn.com/labeling.jpg" alt="Labeling with Active Learning" width="500" loading="lazy">
-      <p>A <strong>machine learning algorithm</strong> that employs <strong>active learning</strong> and deep learning techniques to efficiently annotate sugarbeet plants, <strong>reducing manual labeling efforts</strong> and improving model performance using Python.</p>
-    </div>
+  <!-- Pinned Repositories -->
+  <section>
+    <h2>📌 Pinned Repositories</h2>
+    <p>Check out some of my top repositories on GitHub!</p>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=12-tech&repo=Truck-Platoon&theme=tokyonight" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=12-tech&repo=Cross-Traffic-management-for-autonomous-vehicles&theme=tokyonight" width="400">
   </section>
 
   <!-- Contact Section -->
@@ -84,7 +112,7 @@
     <p>📧 <strong>Email:</strong> <a href="mailto:adijatsulaimon01@gmail.com">adijatsulaimon01@gmail.com</a></p>
     <p>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/adijat01/">linkedin.com/in/adijat01/</a></p>
     <p>💻 <strong>GitHub:</strong> <a href="https://github.com/12-tech">github.com/12-tech</a></p>
-    <p><strong>Thank you for visiting!</strong> 🚀 I’m always open to discussing exciting new projects, collaborations, or just connecting to share knowledge.</p>
+    <p><strong>Thank you for visiting!</strong> 🚀 Let’s collaborate and build something amazing.</p>
   </section>
 </body>
 </html>
