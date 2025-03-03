@@ -5,7 +5,7 @@ title: 'Truck Platoon'
 date: 2025-03-03 18:30:00
 categories: Embedded software/Distributed System
 tags: Jekyll Sass Bootstrap
-featured_image: 'img/Truck_platoon'
+featured_image: '![Screenshot 2025-03-03 at 18 23 31](https://github.com/user-attachments/assets/6caa0dae-47d9-48ef-8334-bab49a80ba1b)'
 project_link: 'https://github.com/12-tech/Truck_Platoon.git'
 button_icon: 'flask'
 button_text: 'Visit Project'
