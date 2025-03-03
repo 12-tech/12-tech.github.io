@@ -9,6 +9,6 @@ featured_image: 'img/posts/04_TruckPlatoon-jekyll-1130x864-2x.png'  # Adjust pat
 project_link: 'https://github.com/12-tech/Truck_Platoon.git'
 button_text: 'Visit Project'
 button_icon: 'flask'
-lead_text: 'A project implementing a truck platooning system that improves traffic efficiency, fuel economy, and safety. It uses real-time adjustments during car-passing events and leverages GPU acceleration for fast processing, demonstrating autonomous fleet coordination.'
+lead_text: 'A project implementing a truck platooning system'
 
 ---
