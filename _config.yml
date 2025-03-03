@@ -1,12 +1,18 @@
 # Site settings
-title: "12-Tech Portfolio"
-email: 'your-email@example.com'
-description: "Software developer and designer. Creating useful things for the web."
+title: "Adijat Sulaimon"
+email: 'Adijatsulaimon01@gmail.com'
+description: "Solving complex problems with technology is my superpower. 
+I thrive on dissecting challenges, diving deep into their intricacies, and crafting innovative solutions. 
+As a hands-on Embedded Systems Engineer, 
+I blend technical expertise with a relentless curiosity for learning, 
+whether it’s mastering new tools or exploring cutting-edge methodologies. Don’t just take my word for it; 
+explore my featured projects below to see how I turn ideas into impact.
+"
 baseurl: "" # Leave it empty for root path
 url: "https://12-tech.github.io" # Use your GitHub Pages URL
-twitter_username: 'your-twitter-handle'
+email: 'Adijatsulaimon01@gmail.com'
 github_username: '12-tech'
-medium_username: 'your-medium-username' # (if you have one)
+linkedln: 'https://www.linkedin.com/in/adijat01/' # (if you have one)
 
 # Build settings
 markdown: kramdown
@@ -39,7 +45,7 @@ pagination:
 
 ### Phantom settings
 footer_text: '© 2025 12-Tech. All rights reserved.'
-admin_name: 'Your Name'
+admin_name: 'Adijat Ajoke Sulaimon'
 google_analytics: "" # Leave empty if not using
 enable_contact: false
 
