@@ -10,7 +10,8 @@ medium_username: 'your-medium-username' # (if you have one)
 
 # Build settings
 markdown: kramdown
-theme: "phantom" # Uncommented to use Phantom theme
+theme: minima
+ # Uncommented to use Phantom theme
 plugins:
   - jekyll-paginate
 
