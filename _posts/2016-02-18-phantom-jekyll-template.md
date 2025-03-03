@@ -1,14 +1,13 @@
 ---
 layout: inner
-position: left
-title: 'Truck Platoon'
-date: 2025-03-03 18:30:00
-categories: Embedded software, Distributed System
-tags: Jekyll, Sass, Bootstrap
-featured_image: 'img/posts/04_TruckPlatoon-jekyll-1130x864-2x.png'  # Adjust path as needed
-project_link: 'https://github.com/12-tech/Truck_Platoon.git'
+position: right
+title: 'ESE'
+date: 2016-02-20 15:56:00
+categories: development
+tags: C++ C Python TCP/IP
+featured_image: '/img/posts/03_rescue-themes-1130x864-2x.png'
+project_link: 'https://rescuethemes.com'
 button_text: 'Visit Project'
-button_icon: 'flask'
-lead_text: 'A project implementing a truck platooning system'
-
+button_icon: 'wordpress'
+lead_text: 'Designed and developed all WordPress themes'
 ---
