@@ -1,12 +1,12 @@
 # Site settings
-title: "Hello. I'm Jami Gibbs."
-email: 'jami0821@gmail.com'
-description: "I'm a software developer and designer from Chicago creating useful things for the web."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://12-tech.github.io" # Update this to your GitHub Pages URL
-twitter_username: 'jamigibbs'
-github_username: 'jamigibbs'
-medium_username: 'blog.jamigibbs.com'
+title: "12-Tech Portfolio"
+email: 'your-email@example.com'
+description: "Software developer and designer. Creating useful things for the web."
+baseurl: "" # Leave it empty for root path
+url: "https://12-tech.github.io" # Use your GitHub Pages URL
+twitter_username: 'your-twitter-handle'
+github_username: '12-tech'
+medium_username: 'your-medium-username' # (if you have one)
 
 # Build settings
 markdown: kramdown
@@ -14,13 +14,12 @@ theme: "phantom" # Uncommented to use Phantom theme
 plugins:
   - jekyll-paginate
 
-# Pagination settings (adjust if you have posts)
+# Pagination settings
 paginate: 10
 paginate_path: "/page:num/"
 
 pagination:
   enabled: true
-  debug: false
   collection: 'posts'
   per_page: 10
   permalink: '/page/:num/'
@@ -38,9 +37,9 @@ pagination:
   indexpage: 'index'
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID or remove if not using
+footer_text: '© 2025 12-Tech. All rights reserved.'
+admin_name: 'Your Name'
+google_analytics: "" # Leave empty if not using
 enable_contact: false
 
 #### Phantom Navigation menu
@@ -48,3 +47,5 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
+  - { url: '/projects', text: 'Projects' }
+  - { url: '/contact', text: 'Contact' }
