@@ -4,7 +4,7 @@ position: left
 title: 'Rescue Robot'
 date: 2016-02-20 15:56:00
 categories: development
-tags: C UML 3D printer
+tags: C UML 3D-printer
 featured_image: 'img/posts/03_rescue-robot-1130x864-2x.png'
 project_link: 'https://rescuethemes.com](https://github.com/12-tech/Project_X.git)'
 button_text: 'Visit Project'
