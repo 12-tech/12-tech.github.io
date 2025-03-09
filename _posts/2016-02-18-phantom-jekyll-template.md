@@ -2,7 +2,7 @@
 layout: inner
 position: right
 title: 'Truck Platoon'
-date: 2025-03-09 15:59:00
+date: 2016-02-20 15:56:00
 categories: development
 tags: C++ Python TCP/IP SysML RMS
 featured_image: '/img/posts/04_TruckPlatoon-1130x864-2x.png'
