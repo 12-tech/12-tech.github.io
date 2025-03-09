@@ -3,7 +3,7 @@ layout: inner
 title: Contact
 permalink: /contact/
 ---
-## Contact Me
+## Let's Work Together
 
 Contact Info
 
