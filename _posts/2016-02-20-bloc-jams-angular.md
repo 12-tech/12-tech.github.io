@@ -5,7 +5,7 @@ title: 'Cross-Traffic Management'
 date: 2016-02-20 14:15:00
 categories: development
 tags: C++ VHDL FreeRTOS UPPAAL
-featured_image: '/img/posts/01_bloc-jams-angular-1130x864-2x.png'
+featured_image: 'img/posts/01_cross-traffic-management-1130x864-2x.png.png'
 project_link: 'https://github.com/12-tech/Cross-Traffic-management-for-autonomous-vehicles.git'
 button_icon: 'github'
 button_text: 'Visit Project'
