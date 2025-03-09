@@ -3,40 +3,42 @@ layout: inner
 title: About
 permalink: /about/
 ---
-## Markdown
+# About Me
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Hi there! 👋 I'm [Your Name], an **Embedded Systems Engineer** passionate about building innovative solutions that bridge hardware and software. This page is a visual journey of my growth, projects, and experiences. Let’s dive in!
 
-[Link to another page](/index.html).
+## My Journey in Embedded Systems
 
-There should be whitespace between paragraphs.
+### 1. **The Beginning**
+![Starting Out](https://via.placeholder.com/400x200)  
+*This is where it all began—my first project with an Arduino Uno. I learned the basics of microcontrollers and C programming.*
 
-# Header 1
+### 2. **Exploring Real-Time Systems**
+![Real-Time Systems](https://via.placeholder.com/400x200)  
+*Working with FreeRTOS on an STM32 microcontroller taught me the importance of task scheduling and real-time performance.*
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### 3. **IoT and Embedded Linux**
+![IoT Project](https://via.placeholder.com/400x200)  
+*Building an IoT-based home automation system using Raspberry Pi and MQTT was a game-changer. It opened my eyes to the power of Linux in embedded systems.*
 
-## Header 2
+### 4. **Professional Growth**
+![Team Collaboration](https://via.placeholder.com/400x200)  
+*Collaborating with cross-functional teams on a truck platooning project taught me the value of teamwork and communication in solving complex problems.*
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Skills and Tools
 
-### Header 3
+### Programming Languages
+- **C/C++**: The backbone of my embedded systems work.
+- **Python**: For scripting and automation tasks.
 
-{% highlight js %}
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-{% endhighlight %}
+### Tools and Platforms
+- **Embedded Linux**: For IoT and high-level applications.
+- **FreeRTOS**: For real-time systems.
+- **Raspberry Pi**: My go-to platform for prototyping.
 
-{% highlight ruby %}
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-{% endhighlight %}
+![Tools I Use](https://via.placeholder.com/800x200)  
+*These are some of the tools and platforms I’ve worked with over the years.*
+
 
 #### Header 4
 
