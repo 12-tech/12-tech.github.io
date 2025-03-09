@@ -5,11 +5,15 @@ permalink: /contact/
 ---
 ## Markdown
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Contact Info
+Email
+aaron.vorse@embeddedresume.com
 
-[Link to another page](/index.html).
+LinkedIn
+https://www.linkedin.com/in/aaronvorse/
 
-There should be whitespace between paragraphs.
+GitHub
+https://github.com/aaronv55/
 
 # Header 1
 
