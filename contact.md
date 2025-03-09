@@ -3,16 +3,20 @@ layout: inner
 title: Contact
 permalink: /contact/
 ---
-## Let's Work Together
 
-Whether you're looking to collaborate, need a creative problem solver, or just want to geek out over the latest trends, let's connect. Drop me a message, I will reply faster than you can say 'innovative solutions'.
+## Let's Create Something Amazing Together
 
-Email
-adijatsulaimon01@gmail.com
+Whether you’re looking to collaborate, need a creative problem-solver, or just want to chat about the latest tech trends, I’d love to hear from you. Drop me a message—I'll respond faster than you can say "innovative solutions"!
 
-LinkedIn
-https://www.linkedin.com/in/adijat01/
+Feel free to reach out through any of the following:
 
-GitHub
-https://github.com/12-tech
+### Email
+**[adijatsulaimon01@gmail.com](mailto:adijatsulaimon01@gmail.com)**
 
+### LinkedIn
+[Adijat on LinkedIn](https://www.linkedin.com/in/adijat01/)
+
+### GitHub
+[Explore my projects on GitHub](https://github.com/12-tech)
+
+Looking forward to connecting with you!
