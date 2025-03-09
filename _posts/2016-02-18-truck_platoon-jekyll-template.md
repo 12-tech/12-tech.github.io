@@ -9,5 +9,5 @@ featured_image: 'img/posts/04_TruckPlatoon-jekyll-1130x864-2x.png'
 project_link: 'https://github.com/12-tech/Truck_Platoon.git'
 button_text: 'Visit Project'
 button_icon: 'github'
-lead_text: 'Designed and developed all WordPress themes'
+lead_text: 'A Truck Platooning System that enhances traffic flow, fuel efficiency, and safety using real-time communication, sensor detection, and GPU-accelerated decision-making'
 ---
