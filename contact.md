@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 ## Let's Work Together
 
-Contact Info
+Whether you're looking to collaborate, need a creative problem solver, or just want to geek out over the latest trends, let's connect. Drop me a message, I will reply faster than you can say 'innovative solutions'.
 
 Email
 adijatsulaimon01@gmail.com
