@@ -5,7 +5,6 @@ permalink: /about/
 ---
 # About Me
 
-![Branching](img/about/aboutme.png)
 
 Hi there! 👋 I'm [Your Name], an **Embedded Systems Engineer** passionate about building innovative solutions that bridge hardware and software. This page is a visual journey of my growth, projects, and experiences. Let’s dive in!
 
