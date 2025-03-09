@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: right
-title: 'ESE'
-date: 2016-02-20 15:56:00
+title: 'Truck Platoon'
+date: 2025-03-09 15:59:00
 categories: development
-tags: C++ C Python TCP/IP
+tags: C++ Python TCP/IP SysML/UML RMS
 featured_image: '/img/posts/04_TruckPlatoon-1130x864-2x.png'
 project_link: 'https://github.com/12-tech/Truck_Platoon.git'
 button_text: 'Visit Project'
-button_icon: 'wordpress'
+button_icon: 'Github'
 lead_text: 'Designed and developed all WordPress themes'
 ---
