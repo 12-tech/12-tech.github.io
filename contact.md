@@ -6,6 +6,7 @@ permalink: /contact/
 ## Contact Me
 
 Contact Info
+
 Email
 adijatsulaimon01@gmail.com
 
