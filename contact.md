@@ -3,25 +3,20 @@ layout: inner
 title: Contact
 permalink: /contact/
 ---
+## Markdown
 
+Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-## Contact Me
+[Link to another page](/index.html).
 
-Feel free to reach out to me via the following methods:
+There should be whitespace between paragraphs.
 
-### Email
-You can email me at:  
-**[youremail@example.com](mailto:youremail@example.com)**
+# Header 1
 
-### Social Media
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [Twitter](https://twitter.com/your-profile)  
-- [GitHub](https://github.com/your-username)
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-### Location
-I am based in **City, Country**.
+## Header 2
 
----
-
-If you have any questions or suggestions, don't hesitate to contact me!
-
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
