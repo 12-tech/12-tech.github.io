@@ -14,7 +14,7 @@ Feel free to reach out through any of the following:
 **[adijatsulaimon01@gmail.com](mailto:adijatsulaimon01@gmail.com)**
 
 ### LinkedIn
-(https://www.linkedin.com/in/adijat01/)
+https://www.linkedin.com/in/adijat01/
 
 ### GitHub
 [Explore my projects on GitHub](https://github.com/12-tech)
