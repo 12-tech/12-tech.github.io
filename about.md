@@ -37,12 +37,4 @@ Hi there! 👋 I'm [Your Name], an **Embedded Systems Engineer** passionate abou
 - **FreeRTOS**: For real-time systems.
 - **Raspberry Pi**: My go-to platform for prototyping.
 
-![Tools I Use](https://via.placeholder.com/800x200)  
-*These are some of the tools and platforms I’ve worked with over the years.*
 
-<!-- #### Phantom Navigation menu
-enable_nav: true
-nav_item:
-  - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
-{% endhighlight %}
